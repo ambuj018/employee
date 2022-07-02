@@ -10,9 +10,4 @@ public class ThymeleafdemoApplication {
 		SpringApplication.run(ThymeleafdemoApplication.class, args);
 	}
 
-	
-	
-	// for conflict checking
-	
-	// ok
 }
