@@ -10,15 +10,15 @@ public class ThymeleafdemoApplication {
 		SpringApplication.run(ThymeleafdemoApplication.class, args);
 	}
 
-	
+	//
 	
 	// for conflict checking
-	
+	//yjtjtyj
 	// ok
 	
 	//kjjkjkjk
-	
-	
+	//jtkjtykty
+	//yutyiutyiuty
 	// after importing 
 	// check conflict
 }
