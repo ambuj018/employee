@@ -13,4 +13,6 @@ public class ThymeleafdemoApplication {
 	
 	
 	// for conflict checking
+	
+	// ok
 }
